@@ -1,0 +1,8 @@
+Add Dates#[May 17, 1210, May 05, 1010]#October 22, 2220
+Get date from a string#[5 days from now]#August 27, 2020
+Subtract Months#[December 19, 2160, 90]#June 19, 2153
+Subtract Dates#[May 18, 1965, June 19, 1966]#Days: 397	Weeks: 56	Months: 13
+Get date from a string#[50 years earlier]#August 22, 1970
+Get day of the week for a date#[September 15, 2066]#Wednesday
+Get week number for a date#[January 31, 3300]#6
+Subtract Years#[September 10, 3300, 300]#September 10, 3000

@@ -1,0 +1,30 @@
+-------Session Started-------
+Get date from string
+Input string : 60 months from now
+Output : 27-8-2025
+ 
+Add/Subtract Weeks
+Input Date : 12-5-2000
+Input Weeks : 6
+Input '+' or '-' : -
+Output : 31-3-2000
+ 
+Add/Subtract Dates
+Input Date : 12-5-1212
+Input Date : 1-3-2000
+Input '+' or '-' : +
+Output : 13-8-3212
+ 
+Add/Subtract Dates
+Input Date : 2-5-2011
+Input Date : 31-1-2020
+Input '+' or '-' : -
+Output : Days: 3196	Weeks: 456	Months: 104
+ 
+See history
+Get day of the week
+Input Date : 15-6-1995
+Output : Thursday
+ 
+-------Session Ended-------
+
